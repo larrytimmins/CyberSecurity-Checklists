@@ -8,8 +8,8 @@
 1. Incident Response
 2. Digital Forensics
 3. Vulnerability Assessment
-4. Penetration Testing
-..1. Red Team
-..2. External
+4. Penetration Testing  
+..1. Red Team  
+..2. External  
 ..3. Internal
 5. Social Engineering
