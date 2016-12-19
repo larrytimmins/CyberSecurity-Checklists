@@ -4,11 +4,11 @@
 ### WIP02 --under review--
 ## By Vendor (Typical, Publically disclosed)
 ## By Category
-### Incident Response
-### Digital Forensics
-### Vulnerability Assessment
-### Penetration Testing
-#### Red Team
-#### External
-#### Internal
-### Social Engineering
+1. Incident Response
+2. Digital Forensics
+3. Vulnerability Assessment
+4. Penetration Testing
+..* Red Team
+..* External
+..* Internal
+5. Social Engineering
