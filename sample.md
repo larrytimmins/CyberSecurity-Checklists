@@ -4,7 +4,7 @@
 ### Revision Date:
 ### Service Components & Activities
 Topic | Feature | Estimated Duration (Days)
----------------------------------- | ------------------------------------- | ----------- |
+----------------------------------|-------------------------------------|:-----------:|
 **External Networking** |    |    |
    | Reconnaissance & Enumeration | 0.5 to 1
    | Network Surveying & Services Identification | 0.5 to 1
